@@ -7,11 +7,11 @@ BitzNet对下列国家和地区的所有线路支持流媒体解锁：美国、�
 
 ## 官网
 
-官网地址：[bitzconnect.com](https://ent.onbitz.net/#/register?code=6ZZ6gqQ2)
+官网地址：[bitzconnect.com](https://enf.neobitz.net/#/register?code=6ZZ6gqQ2)
 
-直连地址(最新备用)：[onbitz](https://red.onbitz.net/#/register?code=6ZZ6gqQ2)
+直连地址(最新备用)：[onbitz](https://enf.neobitz.net/#/register?code=6ZZ6gqQ2)
 
-注册别忘了邀请码，[6ZZ6gqQ2](https://red.onbitz.net/#/register?code=6ZZ6gqQ2)，享充值折扣，以官方活动为准。
+注册别忘了邀请码，[6ZZ6gqQ2](https://enf.neobitz.net/#/register?code=6ZZ6gqQ2)，享充值折扣，以官方活动为准。
 
 如出现安全验证（如下图），这个是正常的人机安全检测，需要耐心等一会儿或者稍后打开。
 
@@ -25,7 +25,7 @@ BitzNet对下列国家和地区的所有线路支持流媒体解锁：美国、�
 
 BitzNet新户注册，有5G的试用流量，限时使用。
 
-限时85折邀请码：[6ZZ6gqQ2](https://red.onbitz.net/#/register?code=6ZZ6gqQ2)，最新优惠以官方活动为准。
+限时85折邀请码：[6ZZ6gqQ2](https://enf.neobitz.net/#/register?code=6ZZ6gqQ2)，最新优惠以官方活动为准。
 
 ## 特色
 
