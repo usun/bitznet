@@ -2,7 +2,9 @@ name: Sync to Gitee
 
 on:
   push:
-    branches: [main, master]  # 触发分支，按需修改
+	# branches: [main, master] # 触发分支，按需修改
+    # 修改为no-such-branch,禁用同步任务
+    branches: [no-such-branch] 
 
 jobs:
   sync:
